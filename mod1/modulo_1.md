@@ -17,3 +17,12 @@
 
 Imagem para site máx 1500 de largura - resolução 50
 Ao exportar, baixar qualidade para 70%
+
+### Icones
+
+iconarchive
+favicon.cc
+favicon.io
+
+
+

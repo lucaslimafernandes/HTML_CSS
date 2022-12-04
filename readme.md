@@ -19,5 +19,5 @@ https://github.com/gustavoguanabara/html-css
 
 ## Where am i?
 
-Aula 18 - a Tag img em HTML5
-https://www.youtube.com/watch?v=f6NTJdtEFOc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=18
+Aula 21 - Semântica na HTML5
+https://www.youtube.com/watch?v=HaSgt1hK2Fs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=21
