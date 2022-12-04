@@ -19,5 +19,5 @@ https://github.com/gustavoguanabara/html-css
 
 ## Where am i?
 
-Aula 21 - Semântica na HTML5
-https://www.youtube.com/watch?v=HaSgt1hK2Fs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=21
+Aula 22 - negrito e italico
+https://www.youtube.com/watch?v=T-d_hsO3hUI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=22
