@@ -7,3 +7,13 @@
 3. WHATWG Living Standard
 4. W3Schools
 
+
+## Imagens
+
+- Unsplash
+- Pexels
+
+### GIMP
+
+Imagem para site máx 1500 de largura - resolução 50
+Ao exportar, baixar qualidade para 70%
