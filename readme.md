@@ -19,5 +19,5 @@ https://github.com/gustavoguanabara/html-css
 
 ## Where am i?
 
-Aula 22 - negrito e italico
-https://www.youtube.com/watch?v=T-d_hsO3hUI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=22
+Aula 26 - Listas mistas e de definição
+https://www.youtube.com/watch?v=Ez1kgIyoGuE&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=26
