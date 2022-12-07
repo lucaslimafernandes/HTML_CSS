@@ -19,5 +19,5 @@ https://github.com/gustavoguanabara/html-css
 
 ## Where am i?
 
-Aula 26 - Listas mistas e de definição
-https://www.youtube.com/watch?v=Ez1kgIyoGuE&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=26
+Aula 29 - Links para download
+https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29
