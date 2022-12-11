@@ -19,5 +19,5 @@ https://github.com/gustavoguanabara/html-css
 
 ## Where am i?
 
-Aula 29 - Links para download
-https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29
+Aula 31 - Imagens dinâmicas
+https://www.youtube.com/watch?v=E01LDVj0Rpg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=31

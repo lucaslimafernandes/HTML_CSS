@@ -24,5 +24,9 @@ iconarchive
 favicon.cc
 favicon.io
 
+### Aula 10 - Links p/ downloads
+
+ - Media Types - https://www.iana.org/assignments/media-types/media-types.xhtml
+
 
 
