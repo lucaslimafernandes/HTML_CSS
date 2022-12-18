@@ -19,5 +19,34 @@ https://github.com/gustavoguanabara/html-css
 
 ## Where am i?
 
-Aula 31 - Imagens dinâmicas
-https://www.youtube.com/watch?v=E01LDVj0Rpg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=31
+Aula 32 - Imagens que se adaptam sozinhas - OK
+https://www.youtube.com/watch?v=4OZYsFl-J9s&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=33
+
+
+## Conteúdos
+
+- ex001: Documento HTML
+
+- ex002: Parágrafos e quebras de linha
+
+- ex003: Teste com imagens
+
+- ex004: Teste de favicon
+
+- ex005: N/A
+
+- ex006: Hierarquia de títulos
+
+- ex007: Exemplo de Semântica
+
+- ex008: Principais formatações
+
+- ex008b: Outras formatações
+
+- ex009: Listas
+
+- ex010: Trabalhando com links
+
+- ex011: Mídias em HTML5/Imagens dinâmicas
+
+
