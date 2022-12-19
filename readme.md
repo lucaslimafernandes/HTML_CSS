@@ -19,9 +19,8 @@ https://github.com/gustavoguanabara/html-css
 
 ## Where am i?
 
-Aula 32 - Imagens que se adaptam sozinhas - OK
-https://www.youtube.com/watch?v=4OZYsFl-J9s&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=33
-
+Aula 36 - Videos externos - OK
+https://www.youtube.com/watch?v=gqrySQQzvvQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=37
 
 ## Conteúdos
 
@@ -47,6 +46,8 @@ https://www.youtube.com/watch?v=4OZYsFl-J9s&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHf
 
 - ex010: Trabalhando com links
 
-- ex011: Mídias em HTML5/Imagens dinâmicas
+- ex011: Mídias em HTML5/Imagens dinâmicas/Reproduzindo áudio/Reproduzindo vídeos
+
+- ex012: Vídeos
 
 
